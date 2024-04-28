@@ -35,6 +35,7 @@ export const s = StyleSheet.create({
   social: {
     flexDirection: "row",
     justifyContent: "space-evenly",
+    marginTop: 10,
   },
   socialBtn: {
     borderRadius: 50,
